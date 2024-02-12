@@ -1,3 +1,0 @@
-*.uasset  diff=lfs merge=lfs -text
-*.umap  diff=lfs merge=lfs -text
-*.uamap diff=lfs merge=lfs -text
